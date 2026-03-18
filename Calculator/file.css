@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial;
+    text-align: center;
+}
+
+video {
+    width: 300px;
+    margin: 10px;
+}
+
+canvas {
+    border: 1px solid black;
+    width: 600px;
+    height: 400px;
+}
